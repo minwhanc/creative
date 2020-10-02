@@ -1,0 +1,2 @@
+# creative
+Hello, my name is Minwhan “Zane” Cho. And this is a collection of some of the works that I have created in the past using different software tools. To briefly share my educational background, I have completed my bachelor’s degree in Economics and Statistics at Carnegie Mellon University, and I am currently continuing my studies as a Master of Entertainment Industry Management (MEIM) first-year student.
