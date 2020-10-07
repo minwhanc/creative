@@ -1,6 +1,7 @@
 ## Adobe Photoshop
 
 _**Final Project for CMU 94-870 Telling Stories with Data, F20**_
+![international](https://user-images.githubusercontent.com/38139294/95322324-532dd400-086a-11eb-9b24-3fde72870822.jpg)
 
 _**Personal Works**_
 ![creative1](https://user-images.githubusercontent.com/38139294/94883306-5115e080-0438-11eb-94f4-c1d111a7efd1.JPG)
