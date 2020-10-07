@@ -7,3 +7,4 @@ Hello, my name is Minwhan “Zane” Cho. And I am here to share some of the wor
 * [Adobe Photoshop](https://minwhanc.github.io/creative/photoshop.html)
 
 ## Data Visualization
+* [Tableau](https://minwhanc.github.io/creative/tableau.html)
