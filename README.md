@@ -9,3 +9,6 @@ Hello, my name is Minwhan “Zane” Cho. And I am here to share some of the wor
 
 ## Data Visualization
 * [Tableau](https://minwhanc.github.io/creative/tableau.html)
+
+## Social Media
+* [Instagram](https://minwhanc.github.io/creative/instagram.html)
