@@ -2,11 +2,9 @@
 
 _**Photoshop Web Page for CMU 90-782 Multi Media, F20**_
 ![Zane_Cho_Web Page_final](https://user-images.githubusercontent.com/38139294/99324613-ad935a80-2842-11eb-81a1-7bf4163737ce.jpg)
-</br>
 
 _**Movie Poster in Photoshop for CMU 90-782 Multi Media, F20**_
 ![Zane_Cho_Movie Poster](https://user-images.githubusercontent.com/38139294/99324634-b6842c00-2842-11eb-9b00-714950fe815c.jpg)
-</br>
 
 _**Personal Works**_
 ![creative1](https://user-images.githubusercontent.com/38139294/94883306-5115e080-0438-11eb-94f4-c1d111a7efd1.JPG)
