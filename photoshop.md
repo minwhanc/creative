@@ -1,9 +1,11 @@
 ## Adobe Photoshop
 
 _**Photoshop Web Page for CMU 90-782 Multi Media, F20**_
+![Zane_Cho_Web Page_final](https://user-images.githubusercontent.com/38139294/99324613-ad935a80-2842-11eb-81a1-7bf4163737ce.jpg)
 </br>
 
 _**Movie Poster in Photoshop for CMU 90-782 Multi Media, F20**_
+![Zane_Cho_Movie Poster](https://user-images.githubusercontent.com/38139294/99324634-b6842c00-2842-11eb-9b00-714950fe815c.jpg)
 </br>
 
 _**Personal Works**_
